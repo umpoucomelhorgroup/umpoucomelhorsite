@@ -1,0 +1,27 @@
+ @media only screen and (max-width:800px){
+    .logo{
+        width: 35%;
+    }
+
+    header img{
+        width: 10%;
+    }
+
+    header div{
+        text-align: center;
+    }
+    
+    section{
+        display: block;
+    }
+
+    section div{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 25px;
+    }
+    section div img{
+        width: 30%;
+    }
+ }
